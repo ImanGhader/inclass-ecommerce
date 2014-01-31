@@ -3,3 +3,8 @@
   border-radius: 8px;
   padding: 1em;
 }
+
+.img-flex {
+	width: 100%;
+	display: block;
+}
